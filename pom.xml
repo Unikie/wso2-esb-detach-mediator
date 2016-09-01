@@ -154,6 +154,13 @@
         <version>1.10.19</version>
     </dependency>
   </dependencies>
+  <distributionManagement>
+    <repository>
+      <id>bintray-mystes-maven</id>
+      <name>mystes-maven</name>
+      <url>https://api.bintray.com/maven/mystes/maven/wso2-esb-detach-mediator/;publish=1</url>
+    </repository>
+  </distributionManagement>
   <properties>
     <CApp.type>lib/synapse/mediator</CApp.type>
   </properties>

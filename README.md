@@ -8,10 +8,18 @@ Detach Mediator is an helper mediator to detach element(s) or attribute(s) from 
 
 ## Usage
 
-### 1. Install the mediator to the ESB
+### 1. Get the WSO2 ESB Custom Callout Mediator jar
+
+You have two options:
+
+a) Add as a Maven/Gradle/Ivy dependency to your project. Get the dependency snippet from [here](https://bintray.com/mystes/maven/wso2-esb-detach-mediator/view).
+
+b) Download it manually from [here](https://github.com/Mystes/wso2-esb-detach-mediator/releases).
+
+### 2. Install the mediator to the ESB
 Copy the `DetachMediator-x.y.jar` to `$WSO2_ESB_HOME/repository/components/dropins/`.
 
-### 2. Use it in your proxies/sequences
+### 3. Use it in your proxies/sequences
 Mediator can be used as follows:
 ```xml
 <detach xpath="expression"/>
