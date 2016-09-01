@@ -1,4 +1,5 @@
 # WSO2 ESB Detach Mediator
+![Build status](https://circleci.com/gh/Mystes/wso2-esb-detach-mediator.svg?style=shield&circle-token=fe1efd36cdca29588882aec4bac12e8c6b1984a5)
 
 ## What is WSO2 ESB?
 [WSO2 ESB](http://wso2.com/products/enterprise-service-bus/) is an open source Enterprise Service Bus that enables interoperability among various heterogeneous systems and business applications.
