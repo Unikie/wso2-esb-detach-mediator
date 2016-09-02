@@ -9,7 +9,7 @@ Detach Mediator is an helper mediator to detach element(s) or attribute(s) from 
 
 ## Usage
 
-### 1. Get the WSO2 ESB Custom Callout Mediator jar
+### 1. Get the WSO2 ESB Detach Mediator jar
 
 You have two options:
 
