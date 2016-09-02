@@ -18,7 +18,7 @@ a) Add as a Maven/Gradle/Ivy dependency to your project. Get the dependency snip
 b) Download it manually from [here](https://github.com/Mystes/wso2-esb-detach-mediator/releases).
 
 ### 2. Install the mediator to the ESB
-Copy the `DetachMediator-x.y.jar` to `$WSO2_ESB_HOME/repository/components/dropins/`.
+Copy the `wso2-esb-detach-mediator-x.y.jar` to `$WSO2_ESB_HOME/repository/components/dropins/`.
 
 ### 3. Use it in your proxies/sequences
 Mediator can be used as follows:
